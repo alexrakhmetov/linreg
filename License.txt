@@ -1,4 +1,4 @@
-Copyright (C) 2023 by timur@gmx.com
+Copyright (C) 2025 by timur@gmx.com
 
 Permission to use, copy, modify, and/or distribute this software for 
 any purpose with or without fee is hereby granted.
